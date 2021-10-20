@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Orchie!
 
-🌱 I’m currently learning svelte and aws
+🌱 I’m currently learning algorithms and data structures
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=orsolyalukacs&layout=compact)
 
