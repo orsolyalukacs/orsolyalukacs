@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Orchie!
+### Hi there 👋, I'm Orsi!
 
 🌱 I’m currently learning Introduction to Computer Science at CS50X
 
