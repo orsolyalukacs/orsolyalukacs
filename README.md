@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Orsi!
 
-👩🏻‍💻  Full-stack Software Engineer with a passion for building great UI/UX.
+👩🏻‍💻  Full-stack Software Engineer with a passion for building great UI/UX. <br/>
 💡  Interested in interdisciplinary solutions, including art, science and technology. 
 Always excited to learn something new!
 
