@@ -1,12 +1,12 @@
 ### Hi there 👋, I'm Orsi!
 
-👩🏻‍💻 Full-stack Software Engineer with a passion for building great UI/UX.
-💡 Interested in interdisciplinary solutions, including art, science and technology. 
+👩🏻‍💻  Full-stack Software Engineer with a passion for building great UI/UX.
+💡  Interested in interdisciplinary solutions, including art, science and technology. 
 Always excited to learn something new!
 
-📖 Currently learning: Ruby
+📖  Currently learning: Ruby
 
-🌱 Experience:
+🌱  Experience:
 Most experienced working with the MERN stack, but also developed with PHP, Wordpress and dabbled in some Python, C and Java.
 
 
