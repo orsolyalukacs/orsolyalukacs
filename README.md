@@ -10,5 +10,5 @@ Always excited to learn something new!
 Most experienced working with the MERN stack, but also developed with PHP, Wordpress and dabbled in some Python, C and Java.
 
 
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=orsolyalukacs&exclude_repo=liferay-portal,liferay-docs,OWXP,liferay-plugins&langs_count=12&count_private=true&hide=jupyter%20notebook&exclude_forks=true&layout=compact)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=orsolyalukacs&exclude_repo=liferay-portal,liferay-docs,OWXP,liferay-plugins)
 
