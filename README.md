@@ -4,7 +4,7 @@
 💡  Interested in interdisciplinary solutions, including art, science and technology. 
 Always excited to learn something new!
 
-📖  Currently learning: Ruby
+📖  Currently learning: Ruby :ruby:
 
 🌱  Experience:
 Most practice working with the MERN stack, but also developed with PHP, Wordpress and dabbled in some Python, C and Java.
