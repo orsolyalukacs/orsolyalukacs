@@ -4,7 +4,7 @@
 💡  Interested in interdisciplinary solutions, including art, science and technology. 
 Always excited to learn something new!
 
-👩🏻‍💻  Mostly working with: NextJS, Typescript, React, Wordpress <br/>
+👩🏻‍💻  NextJS, Typescript, React, Wordpress <br/>
 📖  Currently reading: The Pragmatic Programmer: From Journeyman to Master
 
 🌱  Experience:
