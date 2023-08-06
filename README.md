@@ -1,9 +1,10 @@
 ### Hi there 👋, I'm Orsi!
 
-👩🏻‍💻  Full-stack Software Engineer with a passion for building great UI/UX. <br/>
+👷‍♀️  Full-stack Software Engineer with a passion for building great UI/UX. <br/>
 💡  Interested in interdisciplinary solutions, including art, science and technology. 
 Always excited to learn something new!
 
+👩🏻‍💻  Mostly Working with: NextJS, Typescript, React, Wordpress
 📖  Currently reading: The Pragmatic Programmer: From Journeyman to Master
 
 🌱  Experience:
